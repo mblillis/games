@@ -1,0 +1,26 @@
+[
+  {
+    "name": "League of Legends",
+    "genre": "MOBA",
+    "platform": "PC",
+    "id": 1
+  },
+  {
+    "name": "Bloons TD 6",
+    "genre": "Strategy",
+    "platform": "Mobile",
+    "id": 2
+  },
+  {
+    "name": "Ghost of Tsushima",
+    "genre": "Action",
+    "platform": "Playstation",
+    "id": 3
+  },
+  {
+    "name": "Halo",
+    "genre": "FPS",
+    "platform": "Xbox",
+    "id": 4
+  }  
+]
