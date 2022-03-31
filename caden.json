@@ -1,0 +1,24 @@
+[
+    {
+      "Attraction": "The Grand Canyon",
+      "Atmosphere": "Adventurous",
+      "Food": "None",
+      "Indoor_Outdoor": "Outdoors",
+      "Family": "All",
+      "Expense": 50,
+      "Icon": "https://i.natgeofe.com/n/8071137b-2890-4ded-8420-41e3485b1eb9/domestic-cat.jpg",
+      "id": 1,
+      "City": "Flagstaff"
+    },
+    {
+      "Attraction": "The Desert Botanical Garden",
+      "Atmosphere": "Calm",
+      "Food": "None",
+      "Indoor_Outdoor": "Outdoors",
+      "City": "Phoenix",
+      "Family": "All",
+      "Expense": 25,
+      "Icon": "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png",
+      "id": 2
+    }
+]
